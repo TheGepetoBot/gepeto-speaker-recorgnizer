@@ -1,6 +1,6 @@
 <div align="center">
   <h1>gepeto-speaker-recorgnizer</h1>
-<div>
+</div>
 
 Script que reconhece o locutor de um áudio
 
