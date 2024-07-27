@@ -10,3 +10,7 @@ Para reconhecer é preciso treinar o sistema com amostras de áudio. Segue a lis
 
 - Precisa ser no formato `.wav`, com um sample rate de `16000 Hz` e canal `mono` (É possível usar o `Audacity` ou o `ffmpeg` para ajustar);
 - Ter no mínimo 30 segundos, para uma acurácia mais eficiente.
+
+## Serviços Utilizados
+
+- [PicoVoice (Eagle Speaker Recognition)](https://picovoice.ai/docs/quick-start/eagle-nodejs/)
