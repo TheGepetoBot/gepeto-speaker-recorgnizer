@@ -1,0 +1,6 @@
+.env
+*.wav
+node_modules
+
+profiles/*
+!profiles/.gitkeep

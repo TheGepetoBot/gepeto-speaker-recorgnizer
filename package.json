@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@picovoice/eagle-node": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "wavefile": "^11.0.0"
+  }
+}
